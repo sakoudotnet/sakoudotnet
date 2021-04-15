@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @sakoudotnet
+- 👀 I’m interested in tech, pop culture, legos, cinema, finance.
+- 🌱 I’m currently learning Angular JS and how to be a better technical leader for my collaborators
+- 💞️ I’m looking to collaborate on .NET technologies, Data management and Docker architecture. 
+- 📫 How to reach me : here, or on Twitter.
